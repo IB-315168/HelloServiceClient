@@ -1,4 +1,4 @@
-# TestAppGRPC
+# HelloServiceClient
 # Links:
 - https://learn.microsoft.com/en-us/aspnet/core/tutorials/grpc/grpc-start?view=aspnetcore-6.0&tabs=visual-studio
 - https://learn.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-6.0
